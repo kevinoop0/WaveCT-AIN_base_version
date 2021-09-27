@@ -46,7 +46,7 @@ The test results will be saved to `./outputs` by default.
 
 Please cite:
 
-```
+
 Liu, Zhendong, et al. "Remove appearance shift for ultrasound image segmentation via fast and universal style transfer." 2020 IEEE 17th International Symposium on Biomedical Imaging (ISBI). IEEE, 2020.
-```
+
 
